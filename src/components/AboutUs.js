@@ -20,7 +20,7 @@ class AboutUs extends React.Component {
     </div>
     <div className="carousel-item">
     <h2 class="about-us-text">Hi, my name is adarsh kumar gupta.I am a vampire.</h2>
-      <img className="about-us-image" src="../images/becky_g_american_singer_4k_5k.jpg" alt="Second slide" />
+      <img className="about-us-image" src="https://github.com/ADDY-AK/mini-project-demo/blob/master/src/images/barbara_palvin_4k_3.jpg" alt="Second slide" />
     </div>
     <div className="carousel-item">
     <h2 class="about-us-text">Hi, my name is adarsh kumar gupta. An original one.</h2>
