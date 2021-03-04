@@ -131,3 +131,43 @@ header{
     opacity: 0;
   }
 }
+
+/* middle section css */
+
+#features{
+  padding: 7% 13%;
+  background-color: #fff;
+  position: relative;
+}
+.features-box{
+  padding: 4%;
+  text-align: center;
+}
+.features-paragraph{
+  color: #8f8f8f;
+}
+.icons{
+  color: #2F4F2F;
+  margin-bottom: 1rem;
+}
+.icons:hover{
+  color: #659D32;
+}
+
+/* about us Section */
+
+#about-us{
+
+  text-align: center;
+  background-color: #2F4F2F;
+  color: #fff;
+}
+.carousel-item{
+  padding: 7% 13%;
+}
+
+.about-us-image{
+  width: 10%;
+  border-radius: 50%;
+  margin: 20px;
+}
