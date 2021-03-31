@@ -16,7 +16,7 @@ class AboutUs extends React.Component {
   <div className="carousel-inner">
     <div className="carousel-item active">
     <h2 class="about-us-text">Hi, my name is adarsh kumar gupta.</h2>
-      <img className="about-us-image" src="../images/barbara_palvin_4k_3.jpg" alt="First slide" />
+      <img className="about-us-image" src="https://i.postimg.cc/8CmP696N/profile-pic.png" alt="First slide" />
     </div>
     <div className="carousel-item">
     <h2 class="about-us-text">Hi, my name is adarsh kumar gupta.I am a vampire.</h2>
@@ -36,7 +36,6 @@ class AboutUs extends React.Component {
     <span className="sr-only">Next</span>
   </a>
 </div>
-    <img src="../images/barbara_palvin_4k_3.jpg"></img>
         </section>
     
       );
